@@ -1,3 +1,5 @@
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/nrallyx.png" alt="MIDWAY_RALLYX_RACING_ARCADE">
+
 ---
 layout: default
 ---
