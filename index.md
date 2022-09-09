@@ -1,3 +1,10 @@
+
+<IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/dragrace.png?release=205" alt="drag race arcade">
+
+[DRAG_RACE_INSTRUCTIONS](http://adb.arcadeitalia.net/download_file.php?tipo=mame_current&codice=dragrace&entity=manual&oper=view&filler=dragrace.pdf)
+
+
+
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/spf2t.png">
 
 <IMG src="https://64.media.tumblr.com/b55e30951a36a60f270c13e7d5d364e1/c35abd48961dae60-16/s1280x1920/3a52de9792c2f36f71f30fb13e969584b2bb27b4.jpg" alt="ECONOMIC_ASSASINATION_OF_A_GOOD_FATHER_AND_HEDONiSM">
