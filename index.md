@@ -3,7 +3,7 @@
 
 [DRAG_RACE_INSTRUCTIONS](http://adb.arcadeitalia.net/download_file.php?tipo=mame_current&codice=dragrace&entity=manual&oper=view&filler=dragrace.pdf)
 
-
+<IMG src="https://64.media.tumblr.com/400443a0a9c10d6d91141c16c00b59a8/d4ef8f62d2430d1b-56/s1280x1920/76d90dd284cd9e943f60fd98ea30d269b2c789b4.jpg" alt="blavk">
 
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/spf2t.png">
 
