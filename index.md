@@ -1,3 +1,5 @@
+<IMG src="https://64.media.tumblr.com/dc1eb6eb723012027367c9a5327c4649/81434125fa5faa76-c2/s1280x1920/16faad11fbe9f42a0eab0c43f49eb2174c924313.jpg">
+
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/nrallyx.png" alt="MIDWAY_RALLYX_RACING_ARCADE">
 
 ---
