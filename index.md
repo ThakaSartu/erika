@@ -1,4 +1,5 @@
-
+<IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/btoads.png?release=205">
+<iframe src="https://archive.org/embed/arcade_btoads" width="100%" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## [Tron Legacy - I FIGHT FOR THE USERS!](https://www.youtube.com/watch?v=DkTb7Pe2MtY)
 <a href="https://youtu.be/pEHZLcFMVo0"><IMG src="https://img-www.tf-cdn.com/movie/2/tron-legacy-2010.jpeg?_v=20180717213235&fit=crop&crop=faces%20entropy&w=1200&h=630"></a>
@@ -9,7 +10,7 @@
 
 <IMG src="https://64.media.tumblr.com/79ac9a4575d70dc323c5e01abf70fb33/c35abd48961dae60-2d/s1280x1920/f47baec7bae5294b19dc99ef8c841257ab61289f.jpg">
 
-<a href="https://www.arcade-museum.com/game_detail.php?game_id=8864"><IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/nibbler.png?release=205" alt="MAME ARCADE NiBBLER"></a>
+<a href="https://www.arcade-museum.com/game_detail.php?game_id=8864"><IMG src="https://live.staticflickr.com/65535/50955945876_2a103ba1ba_b.jpg" alt="MAME ARCADE NiBBLER"></a>
 
 <a href="https://open.spotify.com/track/6fjHjD6Fpe0eCWsv18aCqd?si=1bbd03c1dc494cf1"><IMG src="https://www.datocms-assets.com/38007/1631226698-seo-kelela-by-yev-kazannik.jpg"></a>
 
@@ -22,6 +23,7 @@
 <IMG src="https://64.media.tumblr.com/400443a0a9c10d6d91141c16c00b59a8/d4ef8f62d2430d1b-56/s1280x1920/76d90dd284cd9e943f60fd98ea30d269b2c789b4.jpg" alt="blavk">
 
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/spf2t.png">
+<IMG src="https://www.ledfrog.com/wp-content/uploads/2018/08/spft2-banner-932x608.jpg" alt="CAPCOM FANDOM SPF2">
 
 <IMG src="https://64.media.tumblr.com/b55e30951a36a60f270c13e7d5d364e1/c35abd48961dae60-16/s1280x1920/3a52de9792c2f36f71f30fb13e969584b2bb27b4.jpg" alt="ECONOMIC_ASSASINATION_OF_A_GOOD_FATHER_AND_HEDONiSM">
 
