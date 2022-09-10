@@ -1,7 +1,7 @@
 
 <a href="https://youtu.be/pEHZLcFMVo0"><IMG src="https://img-www.tf-cdn.com/movie/2/tron-legacy-2010.jpeg?_v=20180717213235&fit=crop&crop=faces%20entropy&w=1200&h=630"></a>
 
-<a href="https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI?si=D5xt71ZPQdyiO7C7Kv2_ZQ"><IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/tron.png?release=205"></a>
+<a href="https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI?si=D5xt71ZPQdyiO7C7Kv2_ZQ"><IMG src="https://arcademarquee.com/wp-content/uploads/2015/02/tron_marquee.jpg"></a>
 
 <IMG src="https://64.media.tumblr.com/79ac9a4575d70dc323c5e01abf70fb33/c35abd48961dae60-2d/s1280x1920/f47baec7bae5294b19dc99ef8c841257ab61289f.jpg">
 
