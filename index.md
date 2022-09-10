@@ -1,3 +1,6 @@
+
+<IMG src="https://64.media.tumblr.com/ae7d1213ef7d3fec95ec5eefbf9d5f8d/c35abd48961dae60-57/s2048x3072/8e9964fff8aa87519fc102675161e8ff4997cea9.jpg" alt="Thaka_RASHARD_HANDSTYLE_LOVER_MSK">
+
 <IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/btoads.png?release=205">
 <iframe src="https://archive.org/embed/arcade_btoads" width="100%" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
