@@ -1,3 +1,7 @@
+
+
+<a href="https://open.spotify.com/track/6fjHjD6Fpe0eCWsv18aCqd?si=1bbd03c1dc494cf1"><IMG src="https://www.datocms-assets.com/38007/1631226698-seo-kelela-by-yev-kazannik.jpg"></a>
+
 [KELELA_ON_WAX_POETiCS::NiCE_HEALTHY_WRiTEUP](https://www.waxpoetics.com/article/behind-kelela-s-soft-spoken-nature-lies-a-fierceness/) dig how they use spotify! Once we stop getting stalked by yall rapist this shit gonna blow healthy!
 
 <IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/dragrace.png?release=205" alt="drag race arcade">
