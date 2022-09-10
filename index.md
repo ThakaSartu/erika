@@ -8,7 +8,7 @@
 
 <IMG src="https://64.media.tumblr.com/ae7d1213ef7d3fec95ec5eefbf9d5f8d/c35abd48961dae60-57/s2048x3072/8e9964fff8aa87519fc102675161e8ff4997cea9.jpg" alt="Thaka_RASHARD_HANDSTYLE_LOVER_MSK">
 
-<IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/btoads.png?release=205">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/megan/master/assets/images/BATTLETOADSmattle.png">
 <iframe src="https://archive.org/embed/arcade_btoads" width="100%" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## [Tron Legacy - I FIGHT FOR THE USERS!](https://www.youtube.com/watch?v=DkTb7Pe2MtY)
@@ -26,7 +26,7 @@
 
 [KELELA_ON_WAX_POETiCS::NiCE_HEALTHY_WRiTEUP](https://www.waxpoetics.com/article/behind-kelela-s-soft-spoken-nature-lies-a-fierceness/) dig how they use spotify! Once we stop getting stalked by yall rapist this shit gonna blow healthy!
 
-<IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/dragrace.png?release=205" alt="drag race arcade">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/megan/master/assets/images/dragrace.png" alt="drag race arcade">
 
 [DRAG_RACE_INSTRUCTIONS](http://adb.arcadeitalia.net/download_file.php?tipo=mame_current&codice=dragrace&entity=manual&oper=view&filler=dragrace.pdf)
 
