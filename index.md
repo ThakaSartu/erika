@@ -1,3 +1,4 @@
+[KELELA_ON_WAX_POETiCS::NiCE_HEALTHY_WRiTEUP](https://www.waxpoetics.com/article/behind-kelela-s-soft-spoken-nature-lies-a-fierceness/) dig how they use spotify! Once we stop getting stalked by yall rapist this shit gonna blow healthy!
 
 <IMG src="http://adb.arcadeitalia.net/media/mame.current/marquees/dragrace.png?release=205" alt="drag race arcade">
 
