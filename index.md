@@ -1,3 +1,7 @@
+
+## JUS_LiSiN = KANADAS_THEME
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/Nja0Obgg2gU" title="AKIRA - Kaneda's Theme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <IMG src="https://static.wikia.nocookie.net/dubbing9585/images/7/7a/Roujin.jpg/revision/latest?cb=20181203092935" alt="RoJiN_Z vintage ANiME 90s.. THEY_TALK_ABOUT_EUPHENIZATION_IN_THIS_FLICK">
 
 <IMG src="https://m.media-amazon.com/images/M/MV5BMTA3NGUyNWEtYTRkNC00YmM1LWEyYTMtY2Q1MGE5YmZmZTdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg">
