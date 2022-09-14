@@ -1,4 +1,6 @@
+<IMG src="https://s.yimg.com/uu/api/res/1.2/rFZfEdUa9LpMV.bxfyUN8g--~B/Zmk9ZmlsbDtoPTQyMjt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-08/841cd060-27b8-11ed-bdfc-3b6f812a042f.cf.jpg" alt="Erika_i_STARTED_THIS_SERIES_WHEN_UCLA_TRIED_TO_ASSASINATE_ME">
 
+[Berserk 1997(every episode in one video).](https://www.youtube.com/watch?v=opEshfYQHcE)
 ## Check this out and see if you approve of it for Coral
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/OisFMN1BWvg" title="Ghost In The Shell - A Section 9 Team car chase." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4khelsQ8LdQ" title="Aeon Flux - The Complete Animated Collection DVD Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
