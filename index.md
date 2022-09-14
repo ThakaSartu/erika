@@ -1,3 +1,12 @@
+<IMG src="https://static.wikia.nocookie.net/dubbing9585/images/7/7a/Roujin.jpg/revision/latest?cb=20181203092935" alt="RoJiN_Z vintage ANiME 90s.. THEY_TALK_ABOUT_EUPHENIZATION_IN_THIS_FLICK">
+
+<IMG src="https://m.media-amazon.com/images/M/MV5BMTA3NGUyNWEtYTRkNC00YmM1LWEyYTMtY2Q1MGE5YmZmZTdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg">
+
+## Erika, Evelyn would be happy if her hospital bed were sentient
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/X5i0JU_NsZU" title="ROUJIN Z - Full Movie [HD] English Subs (1991) 老人Z" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## ERiKA, watch in English With Akire if too lazy for SubTitles
+<iframe width="100%" height="500"src="https://www.youtube.com/embed/itg4zKaUMgY" title="Roujin Z (English Dubbed) [VHS]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <IMG src="https://s.yimg.com/uu/api/res/1.2/rFZfEdUa9LpMV.bxfyUN8g--~B/Zmk9ZmlsbDtoPTQyMjt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-08/841cd060-27b8-11ed-bdfc-3b6f812a042f.cf.jpg" alt="Erika_i_STARTED_THIS_SERIES_WHEN_UCLA_TRIED_TO_ASSASINATE_ME">
 
 [Berserk 1997(every episode in one video).](https://www.youtube.com/watch?v=opEshfYQHcE)
