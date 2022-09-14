@@ -1,4 +1,8 @@
 
+<IMG src="https://cultcollectiblesonline.com/wp-content/uploads/2020/09/Akira-poster-US-release.jpg" alt="AKira_TRAiLER">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AO9Fa6iOp1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## JUS_LiSiN = KANADAS_THEME
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/Nja0Obgg2gU" title="AKIRA - Kaneda's Theme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
