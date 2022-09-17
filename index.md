@@ -1,8 +1,13 @@
-
+<hr>
+<iframe width="100%" height="431" src="https://www.youtube.com/embed/bZzdr2491xs" title="Pee-Wee's Playhouse (1986) Season: 1 Episode: #01 - "Ice Cream Soup"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="100%" height="431" src="https://www.youtube.com/embed/oWCf5ZH5K1U" title="Superman: The Animated Movie (1942)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="500" height="430" src="https://www.youtube.com/embed/0KFzMhjpCcM" title="Spider-Man (1981–1982)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="100%" height="414" src="https://www.youtube.com/embed/BQRSuKC3Ylw" title="AMAZING SPIDERMAN NO. 196 REQUIEM (DESCANSO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-<iframe width="617" height="347" src="https://www.youtube.com/embed/4PK5CYZlHMA" title="Batman: Mask of the Phantasm - Original Theatrical Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="347" src="https://www.youtube.com/embed/4PK5CYZlHMA" title="Batman: Mask of the Phantasm - Original Theatrical Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <hr>
 
