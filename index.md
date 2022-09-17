@@ -1,3 +1,15 @@
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/X5_8p3VSGSc" title="The Fantastic Four "The Mysterious Molecule Man" (1968 Hanna-Barbera/ Marvel Cartoon Episode)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2mqPO62_7Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Ja8TsLgOGfI" title="The Secret of Nimh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/eg3JoP0a6yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/rJ86qPEsmK8" title="Roald Dahl's The BFG (1989) - Full Movie (FULLY RESTORED)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2VMzTzjRIg4" title="Megaman X Anime Movie Full Pt 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/2hPuRQz6IlM" title="Tekken 8 - State of Play Sep 2022 Announcement Trailer | PS5 Games" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <IMG src="https://cultcollectiblesonline.com/wp-content/uploads/2020/09/Akira-poster-US-release.jpg" alt="AKira_TRAiLER">
 
