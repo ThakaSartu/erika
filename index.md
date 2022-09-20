@@ -1,5 +1,7 @@
 <hr>
 
+[MARA E. - ሰብ ኢሎሞ - መን'ዩ ወላዲ Seb Elomo By Memhr Teame Arefaine Eritrean Comedy 2022](https://www.youtube.com/watch?v=zUhUCGg7JYM)
+
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/lqgQMvDw-K8" title="Waka TM: New Eritrean comedy 2022 (Gual Hadera) #Semhar Mesfn ጓል ሓደራ #ሰምሃር መስፍን" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
