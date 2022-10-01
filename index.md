@@ -1,5 +1,22 @@
 <hr>
 
+# وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍۢ وَأَخَذْنَ مِنكُم مِّيثَـٰقًا غَلِيظًۭا
+
+And how could you take it back after having enjoyed each other intimately and she has taken from you a firm commitment?1 
+
+Do not marry former wives of your fathers—except what was done previously. It was indeed a shameful, despicable, and evil practice.
+
+˹Also˺ forbidden to you for marriage are your mothers, your daughters, your sisters, your paternal and maternal aunts, your brother’s daughters, your sister’s daughters, your foster-mothers, your foster-sisters, your mothers-in-law, your stepdaughters under your guardianship if you have consummated marriage with their mothers—but if you have not, then you can marry them—nor the wives of your own sons, nor two sisters together at the same time—except what was done previously. Surely Allah is All-Forgiving, Most Merciful.
+
+Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession.1 This is Allah’s commandment to you. Lawful to you are all beyond these—as long as you seek them with your wealth in a legal marriage, not in fornication. Give those you have consummated marriage with their due dowries. It is permissible to be mutually gracious regarding the set dowry. Surely Allah is All-Knowing, All-Wise.
+## get the passage below translated
+# YOU_WERE_RiGHT
+### i_submit
+# But_I_WOULD_LIKE_SOME_NEW_ViDEOGAMES 
+
+وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍۢ مَّكَانَ زَوْجٍۢ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًۭا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا ۚ أَتَأْخُذُونَهُۥ بُهْتَـٰنًۭا
+
+
 [MARA E. - ሰብ ኢሎሞ - መን'ዩ ወላዲ Seb Elomo By Memhr Teame Arefaine Eritrean Comedy 2022](https://www.youtube.com/watch?v=zUhUCGg7JYM)
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/lqgQMvDw-K8" title="Waka TM: New Eritrean comedy 2022 (Gual Hadera) #Semhar Mesfn ጓል ሓደራ #ሰምሃር መስፍን" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
