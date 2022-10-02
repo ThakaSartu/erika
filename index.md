@@ -1,4 +1,14 @@
-
+ {% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE########################ERiKA
+2 # TO#####################################################
+3 # ANOTHER##################################################
+4 # UNiVERSE###########################################LATTO777
+{% endhighlight %}
+<hr>
+<hr>
+<hr>
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) 
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 <hr>
 <hr>
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/atetris.png">
