@@ -1,15 +1,15 @@
 
 <hr>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1eYqzB0dzo6DBV0u9FlNi8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/erika/master/assets/images/game_graphics/atetris.png">
 <iframe src="https://archive.org/embed/arcade_atetris" width="100%" height="444" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Quick guide on how to play on the Internet Arcade
 November 6, 2014  Posted by Bill Loguidice  How to, News  27 Comments Noticing a pattern of particularly high (and completely justified) interest over the past several days after several friends and family commented on and forwarded me links to the newly unveiled Internet Arcade, I thought it might be useful to create a quick blog post about my experiences getting this wonderful service running. While Jason Scott himself posted just about all the details you could possibly want, I thought I would summarize things a bit for quicker setup and also to provide additional detail in a couple of key spots.
 
 On its home at Archive.org, the Internet Arcade is described as “a web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s, emulated in JSMAME , part of the JSMESS software package. Containing hundreds of games ranging through many different genres and styles, the Arcade provides research, comparison, and entertainment in the realm of the Video Game Arcade.” While other sites like Jackpot Charm have accomplished similar feats for a variety of platforms (in fact, I used to provide regular blog post lists of such sites), and even Archive.org itself provides access to many of them, the combination of functionality, accessibility, and the types of games these are make this specific implementation stand out, as found on new-casino.ca and other new online casinos. In short, this is a major milestone that makes these historically important arcade games available to just about the widest possible audience.
 
-Getting Started
+# Getting Started
 Here’s a summary of what you should have in place before you get started:
 
 [First] A Windows-, MacOS-, or Linux-based computer that can run one of the browsers in the bullet that follows. While I’ve been successful in getting a game to show on an Android-based smartphone running Chrome, you may have trouble getting the virtual keyboard to appear to get things going and actually play.
