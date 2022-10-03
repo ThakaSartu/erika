@@ -5,6 +5,17 @@
 4 # UNiVERSE###########################################LATTO777
 {% endhighlight %}
 <hr>
+# Dear_Erika
+The [ChromeBook](https://www.asus.com/us/Laptops/For-Students/Chromebook/ASUS-Chromebook-Flip-CR1-CR1100/) from [Billy_Jean (who magically closed for two weeks?!!?!)](https://www.longbeach.gov/library/locations/main-library/) is working out as far as being a functional laptop. I do not miss [OSX](https://www.apple.com/macos/monterey/) or [WiNDOZE](https://www.microsoft.com/en-us/windows?r=1) and Im "kicking ass" in DEKAY_WiFE_ANGELA_CANTOR_USED_TO_SAY. I am killing it in [pages](https://pages.github.com/) and [VisualStudio](https://visualstudio.microsoft.com/) is working out from a [webbrowser](https://vscode.dev/). So if the environment and connection is stable I am super productive without paying for a ole' Jon_Bait service like [WeWORK](https://www.youtube.com/watch?v=X2LwIiKhczo). You know im brainwashed so pardon my phrasing. I am working for Sartu as a Developer after architecting a Dance411_Social_Media_Failover_Solution on github and tumblr. So when the pimps take them offline or sell them I can make post so they dont fake thier deaths like Muna. Its crazy, Im hella persecuted and I done seen Coral with SARTU!!! So I dont know what to say but this military grade ChromeBook is supadope and if Gucci paying you for Latto performances I want some money man! I am sending this [message in a packet](https://www.youtube.com/watch?v=MbXWrmQW-OE) see you around. I saw William and Akire and Akire daughters all over the place prostituted. Well not william. He got gangsta... Goddamn, how old are we? Something is not right.
+
+## ASUS Chromebook Flip CR1 
+### military_grade like my late THiNKPAD
+`From the manufacturere::`
+ASUS Chromebook Flip CR1 is geared to unleash student creativity and potential with robust and attentive design. The ruggedized construction endures the stresses and strains of everyday use and ASUS Antibacterial Guard1 protects student from harmful organisms in the classroom or outdoors. Featuring an easy-to-service modular design and zero-touch enrollment in IT networks, Flip CR1 is also a smart investment for education environments of all types. It supports up to WiFi 6 and 4G LTE2 for fast connectivity, has a garaged stylus3 and dual cameras for versatile experiences, and long-lasting battery life for uninterrupted learning — making it the student laptop to beat.
+<IMG style="border-radius:12px" src="https://www.gizmochina.com/wp-content/uploads/2021/11/flip-cr1-780x480.jpg">
+<IMG style="border-radius:12px" src="https://www.gizmochina.com/wp-content/uploads/2021/11/asus-cr1.jpg">
+<hr>
+
 
 ![AQUEMiNI_POSTER_9291998iTHANK](https://2.bp.blogspot.com/-Ip7ZxfVtNsM/XKFxBk0J2tI/AAAAAAABSeI/uRxvCombSPMeQw6dooJTYPJ0OCX2gUqSwCLcBGAs/s1600/Outkast%2BAquemini%2BVibe%2B1998%2BOctober-158.jpg)
 
