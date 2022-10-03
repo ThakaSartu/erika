@@ -6,7 +6,7 @@
 {% endhighlight %}
 <hr>
 
-[AQUEMiNI_POSTER_9291998iTHANK](https://2.bp.blogspot.com/-Ip7ZxfVtNsM/XKFxBk0J2tI/AAAAAAABSeI/uRxvCombSPMeQw6dooJTYPJ0OCX2gUqSwCLcBGAs/s1600/Outkast%2BAquemini%2BVibe%2B1998%2BOctober-158.jpg)
+![AQUEMiNI_POSTER_9291998iTHANK](https://2.bp.blogspot.com/-Ip7ZxfVtNsM/XKFxBk0J2tI/AAAAAAABSeI/uRxvCombSPMeQw6dooJTYPJ0OCX2gUqSwCLcBGAs/s1600/Outkast%2BAquemini%2BVibe%2B1998%2BOctober-158.jpg)
 
 [‘Don’t Sell Your Sh-t Away’: Why a New Crop of Viral Acts Is Shunning Major Labels](https://www.rollingstone.com/music/music-features/viral-tik-tok-artists-shunning-major-labels-will-paquin-sonder-house-1278232/)
 [https://www.hiphopnostalgia.com/2016/09/outkast-aquemini-xxl-review-1998-rosa.html](XXL_OUTKAST_AQUEMINI_REViEW)
