@@ -16,7 +16,7 @@ ASUS Chromebook Flip CR1 is geared to unleash student creativity and potential w
 <IMG style="border-radius:12px" src="https://www.gizmochina.com/wp-content/uploads/2021/11/flip-cr1-780x480.jpg">
 <IMG style="border-radius:12px" src="https://www.gizmochina.com/wp-content/uploads/2021/11/asus-cr1.jpg">
 <hr>
-
+<hr>
 
 ![AQUEMiNI_POSTER_9291998iTHANK](https://2.bp.blogspot.com/-Ip7ZxfVtNsM/XKFxBk0J2tI/AAAAAAABSeI/uRxvCombSPMeQw6dooJTYPJ0OCX2gUqSwCLcBGAs/s1600/Outkast%2BAquemini%2BVibe%2B1998%2BOctober-158.jpg)
 
