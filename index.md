@@ -12,6 +12,7 @@ The [ChromeBook](https://www.asus.com/us/Laptops/For-Students/Chromebook/ASUS-Ch
 ### military_grade like my late THiNKPAD
 `From the manufacturere::`
 ASUS Chromebook Flip CR1 is geared to unleash student creativity and potential with robust and attentive design. The ruggedized construction endures the stresses and strains of everyday use and ASUS Antibacterial Guard1 protects student from harmful organisms in the classroom or outdoors. Featuring an easy-to-service modular design and zero-touch enrollment in IT networks, Flip CR1 is also a smart investment for education environments of all types. It supports up to WiFi 6 and 4G LTE2 for fast connectivity, has a garaged stylus3 and dual cameras for versatile experiences, and long-lasting battery life for uninterrupted learning — making it the student laptop to beat.
+
 <IMG style="border-radius:12px" src="https://www.gizmochina.com/wp-content/uploads/2021/11/flip-cr1-780x480.jpg">
 <IMG style="border-radius:12px" src="https://www.gizmochina.com/wp-content/uploads/2021/11/asus-cr1.jpg">
 <hr>
