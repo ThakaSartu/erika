@@ -5,6 +5,13 @@
 4 # UNiVERSE###########################################LATTO777
 {% endhighlight %}
 <hr>
+
+[AQUEMiNI_POSTER_9291998iTHANK](https://2.bp.blogspot.com/-Ip7ZxfVtNsM/XKFxBk0J2tI/AAAAAAABSeI/uRxvCombSPMeQw6dooJTYPJ0OCX2gUqSwCLcBGAs/s1600/Outkast%2BAquemini%2BVibe%2B1998%2BOctober-158.jpg)
+
+[‘Don’t Sell Your Sh-t Away’: Why a New Crop of Viral Acts Is Shunning Major Labels](https://www.rollingstone.com/music/music-features/viral-tik-tok-artists-shunning-major-labels-will-paquin-sonder-house-1278232/)
+[https://www.hiphopnostalgia.com/2016/09/outkast-aquemini-xxl-review-1998-rosa.html](XXL_OUTKAST_AQUEMINI_REViEW)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5ceB3rxgXqIRpsOvVzTG28?utm_source=generator&theme=0" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <hr>
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) 
