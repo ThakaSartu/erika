@@ -5,6 +5,9 @@
 4 # UNiVERSE###########################################LATTO777
 {% endhighlight %}
 <hr>
+
+![MOTHERBOARD](https://dlcdnwebimgs.asus.com/files/media/B51D103D-2941-412E-8479-AF994957093B/v1/img/kv/ROG-Strix-X670E-E-Gaming.png)
+
 <img src="https://dlcdnwebimgs.asus.com/files/media/B51D103D-2941-412E-8479-AF994957093B/v1/img/kv/ROG-Strix-X670E-E-Gaming.png">
 
 # Dear_Erika
