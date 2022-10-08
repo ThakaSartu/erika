@@ -4,11 +4,32 @@
 3 # ANOTHER##################################################
 4 # UNiVERSE###########################################LATTO777
 {% endhighlight %}
+
+<hr>
+<hr>
+
+![THE_VERGE](https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FhyRHirls568WvDiT_tSFuFdkAE0%3D%2F0x0%3A2040x1360%2F2000x1333%2Ffilters%3Afocal(1020x680%3A1021x681)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F19661987%2Facastro_190807_3592_best_anime_2019_0001__1_.jpg&w=1200&q=75)
+
+<hr>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/ogHDTOUhmxQ"><img src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/ogHDTOUhmxQ"><img src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <hr>
 
 ![MOTHERBOARD](https://dlcdnwebimgs.asus.com/files/media/B51D103D-2941-412E-8479-AF994957093B/v1/img/kv/ROG-Strix-X670E-E-Gaming.png)
 
-<img src="https://dlcdnwebimgs.asus.com/files/media/B51D103D-2941-412E-8479-AF994957093B/v1/img/kv/ROG-Strix-X670E-E-Gaming.png">
+
 
 # Dear_Erika
 The [ChromeBook](https://www.asus.com/us/Laptops/For-Students/Chromebook/ASUS-Chromebook-Flip-CR1-CR1100/) from [Billy_Jean (who magically closed for two weeks?!!?!)](https://www.longbeach.gov/library/locations/main-library/) is working out as far as being a functional laptop. I do not miss [OSX](https://www.apple.com/macos/monterey/) or [WiNDOZE](https://www.microsoft.com/en-us/windows?r=1) and Im "kicking ass" in DEKAY_WiFE_ANGELA_CANTOR_USED_TO_SAY. I am killing it in [pages](https://pages.github.com/) and [VisualStudio](https://visualstudio.microsoft.com/) is working out from a [webbrowser](https://vscode.dev/). So if the environment and connection is stable I am super productive without paying for a ole' Jon_Bait service like [WeWORK](https://www.youtube.com/watch?v=X2LwIiKhczo). You know im brainwashed so pardon my phrasing. I am working for Sartu as a Developer after architecting a Dance411_Social_Media_Failover_Solution on github and tumblr. So when the pimps take them offline or sell them I can make post so they dont fake thier deaths like Muna. Its crazy, Im hella persecuted and I done seen Coral with SARTU!!! So I dont know what to say but this military grade ChromeBook is supadope and if Gucci paying you for Latto performances I want some money man! I am sending this [message in a packet](https://www.youtube.com/watch?v=MbXWrmQW-OE) see you around. I saw William and Akire and Akire daughters all over the place prostituted. Well not william. He got gangsta... Goddamn, how old are we? Something is not right.
